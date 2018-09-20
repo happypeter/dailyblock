@@ -14,3 +14,4 @@
 * [以太坊的 Gas 机制](doc/20180916.md)
 * [基于 React 开发 DApp](doc/20180917.md)
 * [Neuron 钱包作为 DApp 的运行环境](doc/20180918.md)
+* [Nervos 永恒的初次 DApp 开发课程简介](doc/20180919.md)
