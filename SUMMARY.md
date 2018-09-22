@@ -15,3 +15,4 @@
 * [基于 React 开发 DApp](doc/20180917.md)
 * [Neuron 钱包作为 DApp 的运行环境](doc/20180918.md)
 * [Nervos 永恒的初次 DApp 课程简介](doc/20180919.md)
+* [Alogia 的算法会取代 POW 吗？](doc/20180920.md)
