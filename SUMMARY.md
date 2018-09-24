@@ -16,3 +16,6 @@
 * [Neuron 钱包作为 DApp 的运行环境](doc/20180918.md)
 * [Nervos 永恒的初次 DApp 课程简介](doc/20180919.md)
 * [Alogia 的算法会取代 POW 吗？](doc/20180920.md)
+* [Naval 聊复利](doc/20180921.md)
+* [加密货币背后的密码学之 Merkle Tree](doc/20180922.md)
+* [论区块链第二层方案的合理性](doc/20180923.md)
