@@ -1,0 +1,26 @@
+{
+  "name": "dailyblock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happypeter/dailyblock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happypeter/dailyblock/issues"
+  },
+  "homepage": "https://github.com/happypeter/dailyblock#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
