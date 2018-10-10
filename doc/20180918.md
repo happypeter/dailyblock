@@ -102,7 +102,7 @@ ifconfig|grep 192
 
 可以随意输入一些文字，然后点提交。接下来会弹出的几个界面，但是总体要做的其实就是一件事，就是用钱包私钥签署一下交易。因为交易过程中虽然转账金额为0，但是还是要有手续费的，是要花 Gas 的。
 
-![](http://img.haoqicat.com/2018091801.jpg)
+![](https://img.haoqicat.com/2018091801.jpg)
 
 交易成功后，到 https://microscope.cryptape.com/ ，输入我们的合约地址搜一下，可以看到界面上显示出合约账户下又多了一个交易，可见刚才的提交操作成功了。为了保持课程的简单，我们这里没有做出一套完整的 UI 体验。在 Github 仓库的 complete 文件夹下，我托管了官方的一个流程完整的代码镜像：https://github.com/happypeter/NervFirst/tree/master/complete/first_forever 。
 
